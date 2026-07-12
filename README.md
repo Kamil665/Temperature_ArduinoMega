@@ -276,3 +276,5 @@ Temperature: 24.12
 - DallasTemperature
 - OneWire
 - Serial Monitor
+
+<img width="961" height="809" alt="Снимок экрана (1364)" src="https://github.com/user-attachments/assets/9943b3fe-21d5-4cdf-8bb4-3e6de1820ed0" />
